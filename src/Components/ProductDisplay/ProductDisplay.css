@@ -24,15 +24,6 @@
     width: 586px;
     height: calc(163px * 4 + 16px * 3) ;
 }
-.productdisplay-img {
-
-
-}
-
-.productdisplay-main-img {
-
-
-}
 
 .productdisplay-right {
     display: flex;
@@ -72,12 +63,6 @@
 
 .productdisplay-right-price-new {
     color: #ff4141;
-}
-
-
-.productdisplay-right-description {
-
-
 }
 
 .productdisplay-right-size h1{
